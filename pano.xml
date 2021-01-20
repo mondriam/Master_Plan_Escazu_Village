@@ -1,324 +1,323 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour apprev="17983" appversion="6.1.9" start="node2">
+<tour apprev="17983" start="node2" appversion="6.1.9">
   <panorama id="node2" hideabout="1">
-    <input levelbiashidpi="1.000" overlap="1" width="5980" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" cylinder="1" height="3528" flat="1" levelbias="0.400" levelingroll="0">
-      <level width="5980" predecode="0" preload="0" height="3528"/>
-      <level width="2990" predecode="0" preload="0" height="1764"/>
-      <level width="1495" predecode="0" preload="0" height="882"/>
-      <level width="747" predecode="0" preload="0" height="441"/>
-      <level width="373" predecode="1" preload="1" height="220"/>
+    <input levelbias="0.400" leveltilesize="510" levelingroll="0" height="3528" cylinder="1" flat="1" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="5980">
+      <level predecode="0" height="3528" preload="0" width="5980"/>
+      <level predecode="0" height="1764" preload="0" width="2990"/>
+      <level predecode="0" height="882" preload="0" width="1495"/>
+      <level predecode="0" height="441" preload="0" width="747"/>
+      <level predecode="1" height="220" preload="1" width="373"/>
       <preview color="0x808080"/>
     </input>
-    <view pannorth="0" fovmode="0">
-      <start projection="4" fov="98.5655" pan="0" tilt="0.717264"/>
-      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
-      <min fovpixel="2" pan="0" tilt="-90"/>
-      <max scaletofit="1" fov="120" fovstereographic="270" pan="360" tilt="90" fovfisheye="360"/>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="0" tilt="0.717264" fov="98.5655"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fovstereographic="270" scaletofit="1" pan="360" tilt="90" fov="120"/>
     </view>
-    <userdata title="Región de Jaco" nodeid="node2" heading="0" customnodeid="vista2" longitude="" description="" comment="" datetime="1/19/2021 9:49 AM" source="" latitude="" author="" tags="vista" info="" copyright=""/>
-    <hotspots width="180" wordwrap="1" height="20">
-      <label border="1" enabled="1" width="180" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" borderradius="1" wordwrap="1" height="20" background="1" textcolor="0x000000" backgroundcolor="0xffffff"/>
-      <polystyle bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="San José a 1 hr 39 min (97.2 km) via Carretera Pacífica Fernández Oreamuno/Costanera Sur/Ruta 34, Autopista José María Castro Madriz." skinid="ht_info" use3D="0" pan="2.36" id="Point08" url="" target="" customimage="media/ruta 34.png" tilt="13.94" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_image" use3D="0" pan="50.3" id="Point02" url="images/marriot.jpg" target="" customimage="media/slr-camera-icon-18-256.png" tilt="37.2" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_image" use3D="0" pan="2.22" id="Point03" url="images/Surfer-at-Playa-Hermosa-Garabito-Jaco-Puntarenas-Costa-Rica-gigapixel-scale-2_00x.jpg" target="" customimage="media/slr-camera-icon-18-256.png" tilt="-44.15" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_image" use3D="0" pan="6.59" id="Point04" url="images/Surfing_Lessons_lg-gigapixel-scale-2_00x.JPG" target="" customimage="media/slr-camera-icon-18-256.png" tilt="-27.85" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_image" use3D="0" pan="-8.52" id="Point05" url="images/costa-rica-jaco-hotels-gigapixel-scale-2_00x.jpg" target="" customimage="media/slr-camera-icon-18-256.png" tilt="-27.78" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_image" use3D="0" pan="20.02" id="Point06" url="images/Ciudad-Volcanes-y-Playa-Jaco-1-gigapixel-scale-2_00x.jpg" target="" customimage="media/slr-camera-icon-18-256.png" tilt="-2.89" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_image" use3D="0" pan="17.5" id="Point07" url="images/automercado-gigapixel-scale-2_00x.jpg" target="" customimage="media/slr-camera-icon-18-256.png" tilt="37.88" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_image" use3D="0" pan="11.18" id="Point01" url="images/jaco selina.jpg" target="" customimage="media/slr-camera-icon-18-256.png" tilt="-13.16" customimageheight="35"/>
-      <hotspot title="" customimagewidth="100" fov="10" distance3D="571.503" description="" skinid="ht_node" use3D="0" pan="21.67" id="Point09" url="{node3}" target="" customimage="media/Logo.png" tilt="3.83" customimageheight="100"/>
+    <userdata author="" heading="0" title="Región de Jaco" nodeid="node2" datetime="1/19/2021 9:49 AM" latitude="" info="" comment="" description="" longitude="" customnodeid="vista2" copyright="" source="" tags="vista"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" background="1" textalpha="1" backgroundalpha="1" enabled="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderradius="1" wordwrap="1" backgroundcolor="0xffffff" width="180" border="1"/>
+      <polystyle borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot url="" customimagewidth="35" id="Point08" skinid="ht_info" title="" use3D="0" distance3D="200.026" pan="2.36" customimageheight="35" description="San José a 1 hr 39 min (97.2 km) via Carretera Pacífica Fernández Oreamuno/Costanera Sur/Ruta 34, Autopista José María Castro Madriz." target="" customimage="media/ruta 34.png" tilt="13.94" fov="10"/>
+      <hotspot url="images/marriot.jpg" customimagewidth="35" id="Point02" skinid="ht_image" title="" use3D="0" distance3D="200.026" pan="50.3" customimageheight="35" description="" target="" customimage="media/slr-camera-icon-18-256.png" tilt="37.2" fov="10"/>
+      <hotspot url="images/Surfing_Lessons_lg-gigapixel-scale-2_00x.JPG" customimagewidth="35" id="Point04" skinid="ht_image" title="" use3D="0" distance3D="200.026" pan="3.03" customimageheight="35" description="" target="" customimage="media/slr-camera-icon-18-256.png" tilt="-25.72" fov="10"/>
+      <hotspot url="images/costa-rica-jaco-hotels-gigapixel-scale-2_00x.jpg" customimagewidth="35" id="Point05" skinid="ht_image" title="" use3D="0" distance3D="200.026" pan="-9.44" customimageheight="35" description="" target="" customimage="media/slr-camera-icon-18-256.png" tilt="-25.71" fov="10"/>
+      <hotspot url="images/Ciudad-Volcanes-y-Playa-Jaco-1-gigapixel-scale-2_00x.jpg" customimagewidth="35" id="Point06" skinid="ht_image" title="" use3D="0" distance3D="200.026" pan="15.89" customimageheight="35" description="" target="" customimage="media/slr-camera-icon-18-256.png" tilt="-2.97" fov="10"/>
+      <hotspot url="images/automercado-gigapixel-scale-2_00x.jpg" customimagewidth="35" id="Point07" skinid="ht_image" title="" use3D="0" distance3D="200.026" pan="17.5" customimageheight="35" description="" target="" customimage="media/slr-camera-icon-18-256.png" tilt="37.88" fov="10"/>
+      <hotspot url="images/jaco selina.jpg" customimagewidth="35" id="Point01" skinid="ht_image" title="" use3D="0" distance3D="200.026" pan="11.96" customimageheight="35" description="" target="" customimage="media/slr-camera-icon-18-256.png" tilt="-14.07" fov="10"/>
+      <hotspot url="{node3}" customimagewidth="100" id="Point09" skinid="ht_node" title="" use3D="0" distance3D="571.503" pan="21.67" customimageheight="100" description="" target="" customimage="media/Logo.png" tilt="3.83" fov="10"/>
     </hotspots>
     <media/>
-    <transition enabled="1" softedge="0" zoomspeed="2" zoomin="0" blendcolor="0x000000" zoomfov="20" type="crossdissolve" blendtime="1" zoomout="0" zoomoutpause="1"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" lockedwheel="0" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" hideabout="1"/>
+    <transition blendtime="1" zoomoutpause="1" softedge="0" zoomspeed="2" enabled="1" zoomout="0" zoomfov="20" zoomin="0" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" simulatemass="1" dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" contextprojections="0" speedwheel="1" sensitivity="8" rubberband="0" lockedkeyboard="0" lockedwheel="0" hideabout="1"/>
   </panorama>
   <panorama id="node3" hideabout="1">
-    <input levelbiashidpi="1.000" overlap="1" width="2048" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="2048" levelbias="0.400" levelingroll="0">
-      <level width="2048" predecode="0" preload="0" height="2048"/>
-      <level width="1024" predecode="0" preload="0" height="1024"/>
-      <level width="512" predecode="0" preload="0" height="512"/>
-      <level width="256" predecode="1" preload="1" height="256"/>
+    <input levelbias="0.400" leveltilesize="510" levelingroll="0" height="2048" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view pannorth="0" fovmode="0">
-      <start projection="4" fov="98.5655" pan="0.265162" tilt="-89.4527"/>
-      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
-      <min fovpixel="2" pan="0" tilt="-90"/>
-      <max scaletofit="1" fov="120" fovstereographic="270" pan="360" tilt="90" fovfisheye="360"/>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="0.265162" tilt="-89.4527" fov="98.5655"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fovstereographic="270" scaletofit="1" pan="360" tilt="90" fov="120"/>
     </view>
-    <userdata title="" nodeid="node3" heading="0" customnodeid="" longitude="" description="" comment="" datetime="" source="" latitude="" author="" tags="tours" info="" copyright=""/>
-    <hotspots width="180" wordwrap="1" height="20">
-      <label border="1" enabled="1" width="180" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" borderradius="1" wordwrap="1" height="20" background="1" textcolor="0x000000" backgroundcolor="0xffffff"/>
-      <polystyle bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-153.12" id="Point01" url="{node5}" target="" customimage="media/JVLOGO_tour_node.png" tilt="-39.57" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-237.45" id="Point02" url="{node4}" target="" customimage="media/JVLOGO_tour_node.png" tilt="-40.11" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-314.09" id="Point03" url="{node7}" target="" customimage="media/JVLOGO_tour_node.png" tilt="-33.29" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-232.43" id="Point04" url="{node8}" target="" customimage="media/JVLOGO_tour_node.png" tilt="-61.96" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-4.09" id="Point07" url="{node6}" target="" customimage="media/JVLOGO_tour_node.png" tilt="-57.59" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-131.77" id="Point05" url="{node9}" target="" customimage="media/JVLOGO_tour_node.png" tilt="-44.04" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-102.23" id="Point06" url="{node10}" target="" customimage="media/JVLOGO_tour_node.png" tilt="-68.3" customimageheight="35"/>
-      <hotspot title="Región de Jaco" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-2.8" id="Point08" url="{node2}" target="" customimage="media/JVLOGO_tour_node.png" tilt="4.06" customimageheight="35"/>
+    <userdata author="" heading="0" title="" nodeid="node3" datetime="" latitude="" info="" comment="" description="" longitude="" customnodeid="" copyright="" source="" tags="tours"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" background="1" textalpha="1" backgroundalpha="1" enabled="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderradius="1" wordwrap="1" backgroundcolor="0xffffff" width="180" border="1"/>
+      <polystyle borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node5}" customimagewidth="35" id="Point01" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-153.12" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="-39.57" fov="10"/>
+      <hotspot url="{node4}" customimagewidth="35" id="Point02" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-237.45" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="-40.11" fov="10"/>
+      <hotspot url="{node7}" customimagewidth="35" id="Point03" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-314.09" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="-33.29" fov="10"/>
+      <hotspot url="{node8}" customimagewidth="35" id="Point04" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-232.43" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="-61.96" fov="10"/>
+      <hotspot url="{node6}" customimagewidth="35" id="Point07" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-4.09" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="-57.59" fov="10"/>
+      <hotspot url="{node9}" customimagewidth="35" id="Point05" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-131.77" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="-44.04" fov="10"/>
+      <hotspot url="{node10}" customimagewidth="35" id="Point06" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-102.23" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="-68.3" fov="10"/>
+      <hotspot url="{node2}" customimagewidth="35" id="Point08" skinid="ht_node" title="Región de Jaco" use3D="0" distance3D="200.026" pan="-2.8" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="4.06" fov="10"/>
     </hotspots>
     <media/>
-    <transition enabled="1" softedge="0" zoomspeed="2" zoomin="0" blendcolor="0x000000" zoomfov="20" type="crossdissolve" blendtime="1" zoomout="0" zoomoutpause="1"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" lockedwheel="0" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" hideabout="1"/>
+    <transition blendtime="1" zoomoutpause="1" softedge="0" zoomspeed="2" enabled="1" zoomout="0" zoomfov="20" zoomin="0" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" simulatemass="1" dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" contextprojections="0" speedwheel="1" sensitivity="8" rubberband="0" lockedkeyboard="0" lockedwheel="0" hideabout="1"/>
   </panorama>
   <panorama id="node4" hideabout="1">
-    <input levelbiashidpi="1.000" overlap="1" width="2048" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="2048" levelbias="0.400" levelingroll="0">
-      <level width="2048" predecode="0" preload="0" height="2048"/>
-      <level width="1024" predecode="0" preload="0" height="1024"/>
-      <level width="512" predecode="0" preload="0" height="512"/>
-      <level width="256" predecode="1" preload="1" height="256"/>
+    <input levelbias="0.400" leveltilesize="510" levelingroll="0" height="2048" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view pannorth="0" fovmode="0">
-      <start projection="4" fov="70" pan="0" tilt="0"/>
-      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
-      <min fovpixel="2" pan="0" tilt="-90"/>
-      <max scaletofit="1" fov="120" fovstereographic="270" pan="360" tilt="90" fovfisheye="360"/>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fovstereographic="270" scaletofit="1" pan="360" tilt="90" fov="120"/>
     </view>
-    <userdata title="" nodeid="node4" heading="0" customnodeid="" longitude="" description="" comment="" datetime="" source="" latitude="" author="" tags="tours" info="" copyright=""/>
-    <hotspots width="180" wordwrap="1" height="20">
-      <label border="1" enabled="1" width="180" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" borderradius="1" wordwrap="1" height="20" background="1" textcolor="0x000000" backgroundcolor="0xffffff"/>
-      <polystyle bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-7.72999" id="Point01" url="{node3}" target="" customimage="media/JVLOGO_tour_node.png" tilt="27.06" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-87.46" id="Point02" url="{node5}" target="" customimage="media/JVLOGO_tour_node.png" tilt="-2.01" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-288.72" id="Point03" url="{node7}" target="" customimage="media/JVLOGO_tour_node.png" tilt="-1.58" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-0.68" id="Point04" url="{node8}" target="" customimage="media/JVLOGO_tour_node.png" tilt="-25.5" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-342.09" id="Point07" url="{node6}" target="" customimage="media/JVLOGO_tour_node.png" tilt="-2.9" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-13.5" id="Point05" url="{node10}" target="" customimage="media/JVLOGO_tour_node.png" tilt="-5.37" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-47.87" id="Point06" url="{node9}" target="" customimage="media/JVLOGO_tour_node.png" tilt="-2.97" customimageheight="35"/>
-      <hotspot title="" customimagewidth="50" fov="10" distance3D="285.751" description="" skinid="ht_node" use3D="0" pan="-28.97" id="Point08" url="{node11}" target="" customimage="media/icon_home.png" tilt="-15.6" customimageheight="50"/>
+    <userdata author="" heading="0" title="" nodeid="node4" datetime="" latitude="" info="" comment="" description="" longitude="" customnodeid="" copyright="" source="" tags="tours"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" background="1" textalpha="1" backgroundalpha="1" enabled="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderradius="1" wordwrap="1" backgroundcolor="0xffffff" width="180" border="1"/>
+      <polystyle borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node3}" customimagewidth="35" id="Point01" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-7.72999" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="27.06" fov="10"/>
+      <hotspot url="{node5}" customimagewidth="35" id="Point02" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-87.46" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="-2.01" fov="10"/>
+      <hotspot url="{node7}" customimagewidth="35" id="Point03" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-288.72" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="-1.58" fov="10"/>
+      <hotspot url="{node8}" customimagewidth="35" id="Point04" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-0.68" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="-25.5" fov="10"/>
+      <hotspot url="{node6}" customimagewidth="35" id="Point07" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-342.09" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="-2.9" fov="10"/>
+      <hotspot url="{node10}" customimagewidth="35" id="Point05" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-13.5" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="-5.37" fov="10"/>
+      <hotspot url="{node9}" customimagewidth="35" id="Point06" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-47.87" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="-2.97" fov="10"/>
+      <hotspot url="{node11}" customimagewidth="50" id="Point08" skinid="ht_node" title="" use3D="0" distance3D="285.751" pan="-28.97" customimageheight="50" description="" target="" customimage="media/icon_home.png" tilt="-15.6" fov="10"/>
     </hotspots>
     <media/>
-    <transition enabled="1" softedge="0" zoomspeed="2" zoomin="0" blendcolor="0x000000" zoomfov="20" type="crossdissolve" blendtime="1" zoomout="0" zoomoutpause="1"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" lockedwheel="0" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" hideabout="1"/>
+    <transition blendtime="1" zoomoutpause="1" softedge="0" zoomspeed="2" enabled="1" zoomout="0" zoomfov="20" zoomin="0" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" simulatemass="1" dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" contextprojections="0" speedwheel="1" sensitivity="8" rubberband="0" lockedkeyboard="0" lockedwheel="0" hideabout="1"/>
   </panorama>
   <panorama id="node5" hideabout="1">
-    <input levelbiashidpi="1.000" overlap="1" width="2048" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="2048" levelbias="0.400" levelingroll="0">
-      <level width="2048" predecode="0" preload="0" height="2048"/>
-      <level width="1024" predecode="0" preload="0" height="1024"/>
-      <level width="512" predecode="0" preload="0" height="512"/>
-      <level width="256" predecode="1" preload="1" height="256"/>
+    <input levelbias="0.400" leveltilesize="510" levelingroll="0" height="2048" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view pannorth="0" fovmode="0">
-      <start projection="4" fov="70" pan="0" tilt="0"/>
-      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
-      <min fovpixel="2" pan="0" tilt="-90"/>
-      <max scaletofit="1" fov="120" fovstereographic="270" pan="360" tilt="90" fovfisheye="360"/>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fovstereographic="270" scaletofit="1" pan="360" tilt="90" fov="120"/>
     </view>
-    <userdata title="" nodeid="node5" heading="0" customnodeid="" longitude="" description="" comment="" datetime="" source="" latitude="" author="" tags="tours" info="" copyright=""/>
-    <hotspots width="180" wordwrap="1" height="20">
-      <label border="1" enabled="1" width="180" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" borderradius="1" wordwrap="1" height="20" background="1" textcolor="0x000000" backgroundcolor="0xffffff"/>
-      <polystyle bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-271.84" id="Point01" url="{node4}" target="" customimage="media/JVLOGO_tour_node.png" tilt="-8.74" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-297.68" id="Point02" url="{node7}" target="" customimage="media/JVLOGO_tour_node.png" tilt="-1.33" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-305.96" id="Point03" url="{node8}" target="" customimage="media/JVLOGO_tour_node.png" tilt="-11.96" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-329.2" id="Point04" url="{node6}" target="" customimage="media/JVLOGO_tour_node.png" tilt="-2.02" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-25.03" id="Point05" url="{node9}" target="" customimage="media/JVLOGO_tour_node.png" tilt="-9.33" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-360" id="Point06" url="{node10}" target="" customimage="media/JVLOGO_tour_node.png" tilt="-5.06" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-349.9" id="Point07" url="{node3}" target="" customimage="media/JVLOGO_tour_node.png" tilt="18.94" customimageheight="35"/>
-      <hotspot title="" customimagewidth="50" fov="10" distance3D="285.751" description="" skinid="ht_node" use3D="0" pan="-26.9" id="Point08" url="{node11}" target="" customimage="media/icon_home.png" tilt="-28.54" customimageheight="50"/>
+    <userdata author="" heading="0" title="" nodeid="node5" datetime="" latitude="" info="" comment="" description="" longitude="" customnodeid="" copyright="" source="" tags="tours"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" background="1" textalpha="1" backgroundalpha="1" enabled="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderradius="1" wordwrap="1" backgroundcolor="0xffffff" width="180" border="1"/>
+      <polystyle borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node4}" customimagewidth="35" id="Point01" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-271.84" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="-8.74" fov="10"/>
+      <hotspot url="{node7}" customimagewidth="35" id="Point02" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-297.68" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="-1.33" fov="10"/>
+      <hotspot url="{node8}" customimagewidth="35" id="Point03" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-305.96" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="-11.96" fov="10"/>
+      <hotspot url="{node6}" customimagewidth="35" id="Point04" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-329.2" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="-2.02" fov="10"/>
+      <hotspot url="{node9}" customimagewidth="35" id="Point05" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-25.03" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="-9.33" fov="10"/>
+      <hotspot url="{node10}" customimagewidth="35" id="Point06" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-360" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="-5.06" fov="10"/>
+      <hotspot url="{node3}" customimagewidth="35" id="Point07" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-349.9" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="18.94" fov="10"/>
+      <hotspot url="{node11}" customimagewidth="50" id="Point08" skinid="ht_node" title="" use3D="0" distance3D="285.751" pan="-26.9" customimageheight="50" description="" target="" customimage="media/icon_home.png" tilt="-28.54" fov="10"/>
     </hotspots>
     <media/>
-    <transition enabled="1" softedge="0" zoomspeed="2" zoomin="0" blendcolor="0x000000" zoomfov="20" type="crossdissolve" blendtime="1" zoomout="0" zoomoutpause="1"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" lockedwheel="0" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" hideabout="1"/>
+    <transition blendtime="1" zoomoutpause="1" softedge="0" zoomspeed="2" enabled="1" zoomout="0" zoomfov="20" zoomin="0" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" simulatemass="1" dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" contextprojections="0" speedwheel="1" sensitivity="8" rubberband="0" lockedkeyboard="0" lockedwheel="0" hideabout="1"/>
   </panorama>
   <panorama id="node6" hideabout="1">
-    <input levelbiashidpi="1.000" overlap="1" width="2048" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="2048" levelbias="0.400" levelingroll="0">
-      <level width="2048" predecode="0" preload="0" height="2048"/>
-      <level width="1024" predecode="0" preload="0" height="1024"/>
-      <level width="512" predecode="0" preload="0" height="512"/>
-      <level width="256" predecode="1" preload="1" height="256"/>
+    <input levelbias="0.400" leveltilesize="510" levelingroll="0" height="2048" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view pannorth="0" fovmode="0">
-      <start projection="4" fov="70" pan="0" tilt="0"/>
-      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
-      <min fovpixel="2" pan="0" tilt="-90"/>
-      <max scaletofit="1" fov="120" fovstereographic="270" pan="360" tilt="90" fovfisheye="360"/>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fovstereographic="270" scaletofit="1" pan="360" tilt="90" fov="120"/>
     </view>
-    <userdata title="" nodeid="node6" heading="0" customnodeid="" longitude="" description="" comment="" datetime="" source="" latitude="" author="" tags="tours" info="" copyright=""/>
-    <hotspots width="180" wordwrap="1" height="20">
-      <label border="1" enabled="1" width="180" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" borderradius="1" wordwrap="1" height="20" background="1" textcolor="0x000000" backgroundcolor="0xffffff"/>
-      <polystyle bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-289.25" id="Point01" url="{node7}" target="" customimage="media/JVLOGO_tour_node.png" tilt="-5.59" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-231.3" id="Point03" url="{node4}" target="" customimage="media/JVLOGO_tour_node.png" tilt="-4.53" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-179.33" id="Point02" url="{node5}" target="" customimage="media/JVLOGO_tour_node.png" tilt="-2.27" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-214.33" id="Point04" url="{node8}" target="" customimage="media/JVLOGO_tour_node.png" tilt="-11.12" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-144.32" id="Point05" url="{node9}" target="" customimage="media/JVLOGO_tour_node.png" tilt="-2.16" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-140.49" id="Point06" url="{node10}" target="" customimage="media/JVLOGO_tour_node.png" tilt="-14.15" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="358.34" id="Point07" url="{node3}" target="" customimage="media/JVLOGO_tour_node.png" tilt="23.03" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_image" use3D="0" pan="-99.05" id="Point08" url="images/Torres-de-Apts-3.jpg" target="" customimage="media/slr-camera-icon-18-256.png" tilt="-18.65" customimageheight="35"/>
-      <hotspot title="" customimagewidth="50" fov="10" distance3D="285.751" description="" skinid="ht_node" use3D="0" pan="-144.59" id="Point09" url="{node11}" target="" customimage="media/icon_home.png" tilt="-27.03" customimageheight="50"/>
+    <userdata author="" heading="0" title="" nodeid="node6" datetime="" latitude="" info="" comment="" description="" longitude="" customnodeid="" copyright="" source="" tags="tours"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" background="1" textalpha="1" backgroundalpha="1" enabled="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderradius="1" wordwrap="1" backgroundcolor="0xffffff" width="180" border="1"/>
+      <polystyle borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node7}" customimagewidth="35" id="Point01" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-289.25" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="-5.59" fov="10"/>
+      <hotspot url="{node4}" customimagewidth="35" id="Point03" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-231.3" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="-4.53" fov="10"/>
+      <hotspot url="{node5}" customimagewidth="35" id="Point02" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-179.33" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="-2.27" fov="10"/>
+      <hotspot url="{node8}" customimagewidth="35" id="Point04" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-214.33" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="-11.12" fov="10"/>
+      <hotspot url="{node9}" customimagewidth="35" id="Point05" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-144.32" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="-2.16" fov="10"/>
+      <hotspot url="{node10}" customimagewidth="35" id="Point06" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-140.49" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="-14.15" fov="10"/>
+      <hotspot url="{node3}" customimagewidth="35" id="Point07" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="358.34" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="23.03" fov="10"/>
+      <hotspot url="images/Torres-de-Apts-3.jpg" customimagewidth="35" id="Point08" skinid="ht_image" title="" use3D="0" distance3D="200.026" pan="-99.05" customimageheight="35" description="" target="" customimage="media/slr-camera-icon-18-256.png" tilt="-18.65" fov="10"/>
+      <hotspot url="{node11}" customimagewidth="50" id="Point09" skinid="ht_node" title="" use3D="0" distance3D="285.751" pan="-144.59" customimageheight="50" description="" target="" customimage="media/icon_home.png" tilt="-27.03" fov="10"/>
     </hotspots>
     <media/>
-    <transition enabled="1" softedge="0" zoomspeed="2" zoomin="0" blendcolor="0x000000" zoomfov="20" type="crossdissolve" blendtime="1" zoomout="0" zoomoutpause="1"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" lockedwheel="0" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" hideabout="1"/>
+    <transition blendtime="1" zoomoutpause="1" softedge="0" zoomspeed="2" enabled="1" zoomout="0" zoomfov="20" zoomin="0" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" simulatemass="1" dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" contextprojections="0" speedwheel="1" sensitivity="8" rubberband="0" lockedkeyboard="0" lockedwheel="0" hideabout="1"/>
   </panorama>
   <panorama id="node7" hideabout="1">
-    <input levelbiashidpi="1.000" overlap="1" width="2048" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="2048" levelbias="0.400" levelingroll="0">
-      <level width="2048" predecode="0" preload="0" height="2048"/>
-      <level width="1024" predecode="0" preload="0" height="1024"/>
-      <level width="512" predecode="0" preload="0" height="512"/>
-      <level width="256" predecode="1" preload="1" height="256"/>
+    <input levelbias="0.400" leveltilesize="510" levelingroll="0" height="2048" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view pannorth="0" fovmode="0">
-      <start projection="4" fov="70" pan="0" tilt="0"/>
-      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
-      <min fovpixel="2" pan="0" tilt="-90"/>
-      <max scaletofit="1" fov="120" fovstereographic="270" pan="360" tilt="90" fovfisheye="360"/>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fovstereographic="270" scaletofit="1" pan="360" tilt="90" fov="120"/>
     </view>
-    <userdata title="" nodeid="node7" heading="0" customnodeid="" longitude="" description="" comment="" datetime="" source="" latitude="" author="" tags="tours" info="" copyright=""/>
-    <hotspots width="180" wordwrap="1" height="20">
-      <label border="1" enabled="1" width="180" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" borderradius="1" wordwrap="1" height="20" background="1" textcolor="0x000000" backgroundcolor="0xffffff"/>
-      <polystyle bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-318.24" id="Point01" url="{node5}" target="" customimage="media/JVLOGO_tour_node.png" tilt="5.24" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-0.1" id="Point02" url="{node4}" target="" customimage="media/JVLOGO_tour_node.png" tilt="-1.41" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-279.59" id="Point03" url="{node6}" target="" customimage="media/JVLOGO_tour_node.png" tilt="-3.18" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-321.06" id="Point04" url="{node8}" target="" customimage="media/JVLOGO_tour_node.png" tilt="-5.91" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-305.23" id="Point05" url="{node9}" target="" customimage="media/JVLOGO_tour_node.png" tilt="3.31" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-294.93" id="Point06" url="{node10}" target="" customimage="media/JVLOGO_tour_node.png" tilt="-2.2" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-331.19" id="Point07" url="{node3}" target="" customimage="media/JVLOGO_tour_node.png" tilt="34.9" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_image" use3D="0" pan="-268.5" id="Point08" url="images/Centro-Comercial.jpg" target="" customimage="media/slr-camera-icon-18-256.png" tilt="-29.56" customimageheight="35"/>
-      <hotspot title="" customimagewidth="50" fov="10" distance3D="285.751" description="" skinid="ht_node" use3D="0" pan="-308.35" id="Point09" url="{node11}" target="" customimage="media/icon_home.png" tilt="-7.93" customimageheight="50"/>
+    <userdata author="" heading="0" title="" nodeid="node7" datetime="" latitude="" info="" comment="" description="" longitude="" customnodeid="" copyright="" source="" tags="tours"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" background="1" textalpha="1" backgroundalpha="1" enabled="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderradius="1" wordwrap="1" backgroundcolor="0xffffff" width="180" border="1"/>
+      <polystyle borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node5}" customimagewidth="35" id="Point01" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-318.24" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="5.24" fov="10"/>
+      <hotspot url="{node4}" customimagewidth="35" id="Point02" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-0.1" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="-1.41" fov="10"/>
+      <hotspot url="{node6}" customimagewidth="35" id="Point03" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-279.59" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="-3.18" fov="10"/>
+      <hotspot url="{node8}" customimagewidth="35" id="Point04" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-321.06" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="-5.91" fov="10"/>
+      <hotspot url="{node9}" customimagewidth="35" id="Point05" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-305.23" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="3.31" fov="10"/>
+      <hotspot url="{node10}" customimagewidth="35" id="Point06" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-294.93" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="-2.2" fov="10"/>
+      <hotspot url="{node3}" customimagewidth="35" id="Point07" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-331.19" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="34.9" fov="10"/>
+      <hotspot url="images/Centro-Comercial.jpg" customimagewidth="35" id="Point08" skinid="ht_image" title="" use3D="0" distance3D="200.026" pan="-268.5" customimageheight="35" description="" target="" customimage="media/slr-camera-icon-18-256.png" tilt="-29.56" fov="10"/>
+      <hotspot url="{node11}" customimagewidth="50" id="Point09" skinid="ht_node" title="" use3D="0" distance3D="285.751" pan="-308.35" customimageheight="50" description="" target="" customimage="media/icon_home.png" tilt="-7.93" fov="10"/>
     </hotspots>
     <media/>
-    <transition enabled="1" softedge="0" zoomspeed="2" zoomin="0" blendcolor="0x000000" zoomfov="20" type="crossdissolve" blendtime="1" zoomout="0" zoomoutpause="1"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" lockedwheel="0" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" hideabout="1"/>
+    <transition blendtime="1" zoomoutpause="1" softedge="0" zoomspeed="2" enabled="1" zoomout="0" zoomfov="20" zoomin="0" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" simulatemass="1" dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" contextprojections="0" speedwheel="1" sensitivity="8" rubberband="0" lockedkeyboard="0" lockedwheel="0" hideabout="1"/>
   </panorama>
   <panorama id="node8" hideabout="1">
-    <input levelbiashidpi="1.000" overlap="1" width="2048" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="2048" levelbias="0.400" levelingroll="0">
-      <level width="2048" predecode="0" preload="0" height="2048"/>
-      <level width="1024" predecode="0" preload="0" height="1024"/>
-      <level width="512" predecode="0" preload="0" height="512"/>
-      <level width="256" predecode="1" preload="1" height="256"/>
+    <input levelbias="0.400" leveltilesize="510" levelingroll="0" height="2048" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view pannorth="0" fovmode="0">
-      <start projection="4" fov="70" pan="0" tilt="0"/>
-      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
-      <min fovpixel="2" pan="0" tilt="-90"/>
-      <max scaletofit="1" fov="120" fovstereographic="270" pan="360" tilt="90" fovfisheye="360"/>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fovstereographic="270" scaletofit="1" pan="360" tilt="90" fov="120"/>
     </view>
-    <userdata title="" nodeid="node8" heading="0" customnodeid="" longitude="" description="" comment="" datetime="" source="" latitude="" author="" tags="tours" info="" copyright=""/>
-    <hotspots width="180" wordwrap="1" height="20">
-      <label border="1" enabled="1" width="180" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" borderradius="1" wordwrap="1" height="20" background="1" textcolor="0x000000" backgroundcolor="0xffffff"/>
-      <polystyle bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-226.54" id="Point01" url="{node4}" target="" customimage="media/JVLOGO_tour_node.png" tilt="0.33" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-158.25" id="Point02" url="{node5}" target="" customimage="media/JVLOGO_tour_node.png" tilt="1.14" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-315.63" id="Point03" url="{node7}" target="" customimage="media/JVLOGO_tour_node.png" tilt="4.09" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-28.56" id="Point04" url="{node6}" target="" customimage="media/JVLOGO_tour_node.png" tilt="-4.1" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-134.27" id="Point05" url="{node9}" target="" customimage="media/JVLOGO_tour_node.png" tilt="1.35" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-88.53" id="Point06" url="{node10}" target="" customimage="media/JVLOGO_tour_node.png" tilt="1.88" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-9.78" id="Point07" url="{node3}" target="" customimage="media/JVLOGO_tour_node.png" tilt="30.96" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_image" use3D="0" pan="-194.07" id="Point08" url="images/Area-de-Pisicna-2.jpg" target="" customimage="media/slr-camera-icon-18-256.png" tilt="-22.27" customimageheight="35"/>
-      <hotspot title="" customimagewidth="50" fov="10" distance3D="285.751" description="" skinid="ht_node" use3D="0" pan="-11.92" id="Point09" url="{node11}" target="" customimage="media/icon_home.png" tilt="-24.49" customimageheight="50"/>
+    <userdata author="" heading="0" title="" nodeid="node8" datetime="" latitude="" info="" comment="" description="" longitude="" customnodeid="" copyright="" source="" tags="tours"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" background="1" textalpha="1" backgroundalpha="1" enabled="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderradius="1" wordwrap="1" backgroundcolor="0xffffff" width="180" border="1"/>
+      <polystyle borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node4}" customimagewidth="35" id="Point01" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-226.54" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="0.33" fov="10"/>
+      <hotspot url="{node5}" customimagewidth="35" id="Point02" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-158.25" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="1.14" fov="10"/>
+      <hotspot url="{node7}" customimagewidth="35" id="Point03" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-315.63" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="4.09" fov="10"/>
+      <hotspot url="{node6}" customimagewidth="35" id="Point04" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-28.56" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="-4.1" fov="10"/>
+      <hotspot url="{node9}" customimagewidth="35" id="Point05" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-134.27" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="1.35" fov="10"/>
+      <hotspot url="{node10}" customimagewidth="35" id="Point06" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-88.53" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="1.88" fov="10"/>
+      <hotspot url="{node3}" customimagewidth="35" id="Point07" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-9.78" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="30.96" fov="10"/>
+      <hotspot url="images/Area-de-Pisicna-2.jpg" customimagewidth="35" id="Point08" skinid="ht_image" title="" use3D="0" distance3D="200.026" pan="-194.07" customimageheight="35" description="" target="" customimage="media/slr-camera-icon-18-256.png" tilt="-22.27" fov="10"/>
+      <hotspot url="{node11}" customimagewidth="50" id="Point09" skinid="ht_node" title="" use3D="0" distance3D="285.751" pan="-11.92" customimageheight="50" description="" target="" customimage="media/icon_home.png" tilt="-24.49" fov="10"/>
     </hotspots>
     <media/>
-    <transition enabled="1" softedge="0" zoomspeed="2" zoomin="0" blendcolor="0x000000" zoomfov="20" type="crossdissolve" blendtime="1" zoomout="0" zoomoutpause="1"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" lockedwheel="0" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" hideabout="1"/>
+    <transition blendtime="1" zoomoutpause="1" softedge="0" zoomspeed="2" enabled="1" zoomout="0" zoomfov="20" zoomin="0" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" simulatemass="1" dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" contextprojections="0" speedwheel="1" sensitivity="8" rubberband="0" lockedkeyboard="0" lockedwheel="0" hideabout="1"/>
   </panorama>
   <panorama id="node9" hideabout="1">
-    <input levelbiashidpi="1.000" overlap="1" width="2048" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="2048" levelbias="0.400" levelingroll="0">
-      <level width="2048" predecode="0" preload="0" height="2048"/>
-      <level width="1024" predecode="0" preload="0" height="1024"/>
-      <level width="512" predecode="0" preload="0" height="512"/>
-      <level width="256" predecode="1" preload="1" height="256"/>
+    <input levelbias="0.400" leveltilesize="510" levelingroll="0" height="2048" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view pannorth="0" fovmode="0">
-      <start projection="4" fov="70" pan="0" tilt="0"/>
-      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
-      <min fovpixel="2" pan="0" tilt="-90"/>
-      <max scaletofit="1" fov="120" fovstereographic="270" pan="360" tilt="90" fovfisheye="360"/>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fovstereographic="270" scaletofit="1" pan="360" tilt="90" fov="120"/>
     </view>
-    <userdata title="" nodeid="node9" heading="0" customnodeid="" longitude="" description="" comment="" datetime="" source="" latitude="" author="" tags="tours" info="" copyright=""/>
-    <hotspots width="180" wordwrap="1" height="20">
-      <label border="1" enabled="1" width="180" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" borderradius="1" wordwrap="1" height="20" background="1" textcolor="0x000000" backgroundcolor="0xffffff"/>
-      <polystyle bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-270.51" id="Point01" url="{node5}" target="" customimage="media/JVLOGO_tour_node.png" tilt="-0.61" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-318.25" id="Point02" url="{node4}" target="" customimage="media/JVLOGO_tour_node.png" tilt="-0.32" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-7.79" id="Point03" url="{node7}" target="" customimage="media/JVLOGO_tour_node.png" tilt="3.81" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-345.97" id="Point04" url="{node8}" target="" customimage="media/JVLOGO_tour_node.png" tilt="-3" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-54.35" id="Point05" url="{node6}" target="" customimage="media/JVLOGO_tour_node.png" tilt="2.63" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-38.36" id="Point06" url="{node10}" target="" customimage="media/JVLOGO_tour_node.png" tilt="-4.82" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-358.66" id="Point07" url="{node3}" target="" customimage="media/JVLOGO_tour_node.png" tilt="31.63" customimageheight="35"/>
-      <hotspot title="" customimagewidth="50" fov="10" distance3D="285.751" description="" skinid="ht_node" use3D="0" pan="-80.23" id="Point08" url="{node11}" target="" customimage="media/icon_home.png" tilt="-20.64" customimageheight="50"/>
+    <userdata author="" heading="0" title="" nodeid="node9" datetime="" latitude="" info="" comment="" description="" longitude="" customnodeid="" copyright="" source="" tags="tours"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" background="1" textalpha="1" backgroundalpha="1" enabled="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderradius="1" wordwrap="1" backgroundcolor="0xffffff" width="180" border="1"/>
+      <polystyle borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node5}" customimagewidth="35" id="Point01" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-270.51" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="-0.61" fov="10"/>
+      <hotspot url="{node4}" customimagewidth="35" id="Point02" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-318.25" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="-0.32" fov="10"/>
+      <hotspot url="{node7}" customimagewidth="35" id="Point03" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-7.79" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="3.81" fov="10"/>
+      <hotspot url="{node8}" customimagewidth="35" id="Point04" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-345.97" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="-3" fov="10"/>
+      <hotspot url="{node6}" customimagewidth="35" id="Point05" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-54.35" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="2.63" fov="10"/>
+      <hotspot url="{node10}" customimagewidth="35" id="Point06" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-38.36" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="-4.82" fov="10"/>
+      <hotspot url="{node3}" customimagewidth="35" id="Point07" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-358.66" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="31.63" fov="10"/>
+      <hotspot url="{node11}" customimagewidth="50" id="Point08" skinid="ht_node" title="" use3D="0" distance3D="285.751" pan="-80.23" customimageheight="50" description="" target="" customimage="media/icon_home.png" tilt="-20.64" fov="10"/>
     </hotspots>
     <media/>
-    <transition enabled="1" softedge="0" zoomspeed="2" zoomin="0" blendcolor="0x000000" zoomfov="20" type="crossdissolve" blendtime="1" zoomout="0" zoomoutpause="1"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" lockedwheel="0" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" hideabout="1"/>
+    <transition blendtime="1" zoomoutpause="1" softedge="0" zoomspeed="2" enabled="1" zoomout="0" zoomfov="20" zoomin="0" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" simulatemass="1" dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" contextprojections="0" speedwheel="1" sensitivity="8" rubberband="0" lockedkeyboard="0" lockedwheel="0" hideabout="1"/>
   </panorama>
   <panorama id="node10" hideabout="1">
-    <input levelbiashidpi="1.000" overlap="1" width="2048" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="2048" levelbias="0.400" levelingroll="0">
-      <level width="2048" predecode="0" preload="0" height="2048"/>
-      <level width="1024" predecode="0" preload="0" height="1024"/>
-      <level width="512" predecode="0" preload="0" height="512"/>
-      <level width="256" predecode="1" preload="1" height="256"/>
+    <input levelbias="0.400" leveltilesize="510" levelingroll="0" height="2048" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view pannorth="0" fovmode="0">
-      <start projection="4" fov="70" pan="0" tilt="0"/>
-      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
-      <min fovpixel="2" pan="0" tilt="-90"/>
-      <max scaletofit="1" fov="120" fovstereographic="270" pan="360" tilt="90" fovfisheye="360"/>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fovstereographic="270" scaletofit="1" pan="360" tilt="90" fov="120"/>
     </view>
-    <userdata title="" nodeid="node10" heading="0" customnodeid="" longitude="" description="" comment="" datetime="" source="" latitude="" author="" tags="tours" info="" copyright=""/>
-    <hotspots width="180" wordwrap="1" height="20">
-      <label border="1" enabled="1" width="180" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" borderradius="1" wordwrap="1" height="20" background="1" textcolor="0x000000" backgroundcolor="0xffffff"/>
-      <polystyle bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-214.59" id="Point01" url="{node9}" target="" customimage="media/JVLOGO_tour_node.png" tilt="-4.53" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-318.43" id="Point02" url="{node8}" target="" customimage="media/JVLOGO_tour_node.png" tilt="-1.21" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-4.69" id="Point03" url="{node7}" target="" customimage="media/JVLOGO_tour_node.png" tilt="3.58" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-31.17" id="Point04" url="{node6}" target="" customimage="media/JVLOGO_tour_node.png" tilt="-1.44" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-250.96" id="Point05" url="{node5}" target="" customimage="media/JVLOGO_tour_node.png" tilt="3.38" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-288.45" id="Point06" url="{node4}" target="" customimage="media/JVLOGO_tour_node.png" tilt="4.75" customimageheight="35"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-342.2" id="Point07" url="{node3}" target="" customimage="media/JVLOGO_tour_node.png" tilt="37.09" customimageheight="35"/>
-      <hotspot title="" customimagewidth="50" fov="10" distance3D="285.751" description="" skinid="ht_node" use3D="0" pan="-268.88" id="Point08" url="{node11}" target="" customimage="media/icon_home.png" tilt="-21.61" customimageheight="50"/>
+    <userdata author="" heading="0" title="" nodeid="node10" datetime="" latitude="" info="" comment="" description="" longitude="" customnodeid="" copyright="" source="" tags="tours"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" background="1" textalpha="1" backgroundalpha="1" enabled="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderradius="1" wordwrap="1" backgroundcolor="0xffffff" width="180" border="1"/>
+      <polystyle borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node9}" customimagewidth="35" id="Point01" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-214.59" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="-4.53" fov="10"/>
+      <hotspot url="{node8}" customimagewidth="35" id="Point02" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-318.43" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="-1.21" fov="10"/>
+      <hotspot url="{node7}" customimagewidth="35" id="Point03" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-4.69" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="3.58" fov="10"/>
+      <hotspot url="{node6}" customimagewidth="35" id="Point04" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-31.17" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="-1.44" fov="10"/>
+      <hotspot url="{node5}" customimagewidth="35" id="Point05" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-250.96" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="3.38" fov="10"/>
+      <hotspot url="{node4}" customimagewidth="35" id="Point06" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-288.45" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="4.75" fov="10"/>
+      <hotspot url="{node3}" customimagewidth="35" id="Point07" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-342.2" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="37.09" fov="10"/>
+      <hotspot url="{node11}" customimagewidth="50" id="Point08" skinid="ht_node" title="" use3D="0" distance3D="285.751" pan="-268.88" customimageheight="50" description="" target="" customimage="media/icon_home.png" tilt="-21.61" fov="10"/>
     </hotspots>
     <media/>
-    <transition enabled="1" softedge="0" zoomspeed="2" zoomin="0" blendcolor="0x000000" zoomfov="20" type="crossdissolve" blendtime="1" zoomout="0" zoomoutpause="1"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" lockedwheel="0" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" hideabout="1"/>
+    <transition blendtime="1" zoomoutpause="1" softedge="0" zoomspeed="2" enabled="1" zoomout="0" zoomfov="20" zoomin="0" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" simulatemass="1" dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" contextprojections="0" speedwheel="1" sensitivity="8" rubberband="0" lockedkeyboard="0" lockedwheel="0" hideabout="1"/>
   </panorama>
   <panorama id="node11" hideabout="1">
-    <input levelbiashidpi="1.000" overlap="1" width="2000" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="2000" levelbias="0.400" levelingroll="0">
-      <level width="2000" predecode="0" preload="0" height="2000"/>
-      <level width="1000" predecode="0" preload="0" height="1000"/>
-      <level width="500" predecode="1" preload="1" height="500"/>
+    <input levelbias="0.400" leveltilesize="510" levelingroll="0" height="2000" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000">
+      <level predecode="0" height="2000" preload="0" width="2000"/>
+      <level predecode="0" height="1000" preload="0" width="1000"/>
+      <level predecode="1" height="500" preload="1" width="500"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view pannorth="0" fovmode="0">
-      <start projection="4" fov="70" pan="0" tilt="0"/>
-      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
-      <min fovpixel="2" pan="0" tilt="-90"/>
-      <max scaletofit="1" fov="120" fovstereographic="270" pan="360" tilt="90" fovfisheye="360"/>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" fovstereographic="270" scaletofit="1" pan="360" tilt="90" fov="120"/>
     </view>
-    <userdata title="" nodeid="node11" heading="0" customnodeid="" longitude="" description="" comment="" datetime="1/4/2021 7:19 PM" source="" latitude="" author="" tags="tours" info="" copyright=""/>
-    <hotspots width="180" wordwrap="1" height="20">
-      <label border="1" enabled="1" width="180" bordercolor="0x000000" textalpha="1" borderalpha="1" backgroundalpha="1" borderradius="1" wordwrap="1" height="20" background="1" textcolor="0x000000" backgroundcolor="0xffffff"/>
-      <polystyle bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff"/>
-      <hotspot title="" customimagewidth="35" fov="10" distance3D="200.026" description="" skinid="ht_node" use3D="0" pan="-135.14" id="Point01" url="{node3}" target="" customimage="media/JVLOGO_tour_node.png" tilt="4.65" customimageheight="35"/>
-      <hotspot title="" customimagewidth="40" fov="10" distance3D="228.601" description="" skinid="ht_image" use3D="0" pan="-75.75" id="Point02" url="images/Distribucion-Axonomerico.jpg" target="" customimage="media/floorplan.png" tilt="-6.49" customimageheight="40"/>
+    <userdata author="" heading="0" title="" nodeid="node11" datetime="1/4/2021 7:19 PM" latitude="" info="" comment="" description="" longitude="" customnodeid="" copyright="" source="" tags="tours"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" background="1" textalpha="1" backgroundalpha="1" enabled="1" bordercolor="0x000000" height="20" textcolor="0x000000" borderradius="1" wordwrap="1" backgroundcolor="0xffffff" width="180" border="1"/>
+      <polystyle borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot url="{node3}" customimagewidth="35" id="Point01" skinid="ht_node" title="" use3D="0" distance3D="200.026" pan="-135.14" customimageheight="35" description="" target="" customimage="media/JVLOGO_tour_node.png" tilt="4.65" fov="10"/>
+      <hotspot url="images/Distribucion-Axonomerico.jpg" customimagewidth="40" id="Point02" skinid="ht_image" title="" use3D="0" distance3D="228.601" pan="-75.75" customimageheight="40" description="" target="" customimage="media/floorplan.png" tilt="-6.49" fov="10"/>
     </hotspots>
     <media/>
-    <transition enabled="1" softedge="0" zoomspeed="2" zoomin="0" blendcolor="0x000000" zoomfov="20" type="crossdissolve" blendtime="1" zoomout="0" zoomoutpause="1"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" lockedwheel="0" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" hideabout="1"/>
+    <transition blendtime="1" zoomoutpause="1" softedge="0" zoomspeed="2" enabled="1" zoomout="0" zoomfov="20" zoomin="0" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" invertcontrol="1" lockedmouse="0" simulatemass="1" dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" contextprojections="0" speedwheel="1" sensitivity="8" rubberband="0" lockedkeyboard="0" lockedwheel="0" hideabout="1"/>
   </panorama>
   <masternode>
-    <userdata title="" nodeid="master" heading="0" customnodeid="" longitude="" description="" comment="" datetime="" source="" latitude="" author="" tags="" info="" copyright=""/>
+    <userdata author="" heading="0" title="" nodeid="master" datetime="" latitude="" info="" comment="" description="" longitude="" customnodeid="" copyright="" source="" tags=""/>
   </masternode>
 </tour>
