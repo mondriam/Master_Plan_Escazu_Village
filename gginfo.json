@@ -2,10 +2,7 @@
 	"version": 1,
 	"type": "panorama",
 	"external": {
-		"js": [
-			"webxr/three.min.js",
-			"webxr/webxr-polyfill.min.js"
-		],
+		"js": [],
 		"css": []
 	},
 	"skin": {
@@ -14,7 +11,7 @@
 	"player": {
 		"js": "pano2vr_player.js"
 	},
-	"creationdate": "2021-01-28T00:08:04.651Z",
+	"creationdate": "2021-01-30T00:26:26.893Z",
 	"configuration": "pano.xml",
 	"preview": {
 		"img": "preview.jpg",
